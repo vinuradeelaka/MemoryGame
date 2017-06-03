@@ -13,7 +13,7 @@ public class PlayOrExit extends Activity {
 
 
     ImageView btnExit,btnPlay;
-
+//------------------------------------------
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
